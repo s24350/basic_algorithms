@@ -1,0 +1,17 @@
+C:/Wszystko/Kariera/projekty na gita/basic_algorithms/cmake-build-debug/CMakeFiles/knn.dir
+C:/Wszystko/Kariera/projekty na gita/basic_algorithms/cmake-build-debug/CMakeFiles/perceptron.dir
+C:/Wszystko/Kariera/projekty na gita/basic_algorithms/cmake-build-debug/CMakeFiles/bayes.dir
+C:/Wszystko/Kariera/projekty na gita/basic_algorithms/cmake-build-debug/CMakeFiles/k-means.dir
+C:/Wszystko/Kariera/projekty na gita/basic_algorithms/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Wszystko/Kariera/projekty na gita/basic_algorithms/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Wszystko/Kariera/projekty na gita/basic_algorithms/cmake-build-debug/CMakeFiles/list_install_components.dir
+C:/Wszystko/Kariera/projekty na gita/basic_algorithms/cmake-build-debug/CMakeFiles/install.dir
+C:/Wszystko/Kariera/projekty na gita/basic_algorithms/cmake-build-debug/CMakeFiles/install/local.dir
+C:/Wszystko/Kariera/projekty na gita/basic_algorithms/cmake-build-debug/CMakeFiles/install/strip.dir
+C:/Wszystko/Kariera/projekty na gita/basic_algorithms/cmake-build-debug/_deps/fmt-build/CMakeFiles/fmt.dir
+C:/Wszystko/Kariera/projekty na gita/basic_algorithms/cmake-build-debug/_deps/fmt-build/CMakeFiles/edit_cache.dir
+C:/Wszystko/Kariera/projekty na gita/basic_algorithms/cmake-build-debug/_deps/fmt-build/CMakeFiles/rebuild_cache.dir
+C:/Wszystko/Kariera/projekty na gita/basic_algorithms/cmake-build-debug/_deps/fmt-build/CMakeFiles/list_install_components.dir
+C:/Wszystko/Kariera/projekty na gita/basic_algorithms/cmake-build-debug/_deps/fmt-build/CMakeFiles/install.dir
+C:/Wszystko/Kariera/projekty na gita/basic_algorithms/cmake-build-debug/_deps/fmt-build/CMakeFiles/install/local.dir
+C:/Wszystko/Kariera/projekty na gita/basic_algorithms/cmake-build-debug/_deps/fmt-build/CMakeFiles/install/strip.dir

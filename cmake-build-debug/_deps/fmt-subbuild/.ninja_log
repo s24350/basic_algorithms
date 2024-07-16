@@ -1,0 +1,37 @@
+# ninja log v5
+0	108	7428563313646949	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-mkdir	9fb03af49afe979a
+0	108	7428563313646949	C:/Wszystko/Kariera/projekty na gita/basic_algorithms/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-mkdir	9fb03af49afe979a
+1	159	0	C:/Wszystko/Kariera/projekty na gita/basic_algorithms/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	7ae47723ae7d56ad
+160	221	7428597108957515	C:/Wszystko/Kariera/projekty na gita/basic_algorithms/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch	9c7136cb09336dfd
+109	9390	7428563406435733	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-download	8684692977f771d7
+109	9390	7428563406435733	C:/Wszystko/Kariera/projekty na gita/basic_algorithms/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-download	8684692977f771d7
+1	159	0	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	7ae47723ae7d56ad
+160	221	7428597108957515	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch	9c7136cb09336dfd
+221	276	7428597109505527	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure	4a7fb64a45fc7d9b
+221	276	7428597109505527	C:/Wszystko/Kariera/projekty na gita/basic_algorithms/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure	4a7fb64a45fc7d9b
+276	333	7428597110068761	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build	417549747ad99e11
+276	333	7428597110068761	C:/Wszystko/Kariera/projekty na gita/basic_algorithms/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build	417549747ad99e11
+448	527	7428597112009825	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-done	67bdd559ad735836
+333	391	7428597110647615	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install	aa3a58b4950eccdb
+333	391	7428597110647615	C:/Wszystko/Kariera/projekty na gita/basic_algorithms/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install	aa3a58b4950eccdb
+391	448	7428597111217654	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test	2337808698c790e9
+391	448	7428597111217654	C:/Wszystko/Kariera/projekty na gita/basic_algorithms/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test	2337808698c790e9
+448	527	7428597112009825	CMakeFiles/fmt-populate-complete	67bdd559ad735836
+448	527	7428597112009825	C:/Wszystko/Kariera/projekty na gita/basic_algorithms/cmake-build-debug/_deps/fmt-subbuild/CMakeFiles/fmt-populate-complete	67bdd559ad735836
+448	527	7428597112009825	C:/Wszystko/Kariera/projekty na gita/basic_algorithms/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-done	67bdd559ad735836
+1	158	0	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	7ae47723ae7d56ad
+1	158	0	C:/Wszystko/Kariera/projekty na gita/basic_algorithms/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	7ae47723ae7d56ad
+158	227	7428604340942043	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch	9c7136cb09336dfd
+158	227	7428604340942043	C:/Wszystko/Kariera/projekty na gita/basic_algorithms/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch	9c7136cb09336dfd
+228	289	7428604341524651	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure	4a7fb64a45fc7d9b
+228	289	7428604341524651	C:/Wszystko/Kariera/projekty na gita/basic_algorithms/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure	4a7fb64a45fc7d9b
+289	343	7428604342083493	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build	417549747ad99e11
+289	343	7428604342083493	C:/Wszystko/Kariera/projekty na gita/basic_algorithms/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build	417549747ad99e11
+344	401	7428604342643167	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install	aa3a58b4950eccdb
+344	401	7428604342643167	C:/Wszystko/Kariera/projekty na gita/basic_algorithms/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install	aa3a58b4950eccdb
+401	465	7428604343276828	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test	2337808698c790e9
+401	465	7428604343276828	C:/Wszystko/Kariera/projekty na gita/basic_algorithms/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test	2337808698c790e9
+466	546	7428604344100063	CMakeFiles/fmt-populate-complete	67bdd559ad735836
+466	546	7428604344100063	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-done	67bdd559ad735836
+466	546	7428604344100063	C:/Wszystko/Kariera/projekty na gita/basic_algorithms/cmake-build-debug/_deps/fmt-subbuild/CMakeFiles/fmt-populate-complete	67bdd559ad735836
+466	546	7428604344100063	C:/Wszystko/Kariera/projekty na gita/basic_algorithms/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-done	67bdd559ad735836

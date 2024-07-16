@@ -1,0 +1,21 @@
+﻿Age;Spectacle Pres.;Astigmatism;Tear prod rate;Decision
+Presbyopic;Myope;No;Reduced;None
+Presbyopic;Myope;Yes;Reduced;None
+Young;Myope;No;Normal;Soft
+Prepresbyopic;Myope;Yes;Reduced;None
+Young;Hypermetrope;Yes;Reduced;None
+Young;Hypermetrope;No;Normal;Soft
+Young;Myope;Yes;Reduced;None
+Prepresbyopic;Myope;No;Normal;Soft
+Prepresbyopic;Myope;Yes;Normal;Hard
+Prepresbyopic;Hypermetrope;Yes;Reduced;None
+Presbyopic;Hypermetrope;No;Normal;Soft
+Young;Hypermetrope;Yes;Normal;Hard
+Prepresbyopic;Hypermetrope;No;Normal;Soft
+Prepresbyopic;Myope;No;Reduced;None
+Presbyopic;Hypermetrope;Yes;Reduced;None
+Young;Hypermetrope;No;Reduced;None
+Presbyopic;Hypermetrope;No;Reduced;None
+Prepresbyopic;Hypermetrope;No;Reduced;None
+Prepresbyopic;Hypermetrope;Yes;Normal;None
+Presbyopic;Hypermetrope;Yes;Normal;None

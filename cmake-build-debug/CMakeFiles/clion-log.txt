@@ -1,0 +1,6 @@
+"C:\Program Files\JetBrains\CLion 2022.2.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2022.2.3/bin/ninja/win/ninja.exe" -G Ninja -S "C:\Wszystko\Kariera\projekty na gita\basic_algorithms" -B "C:\Wszystko\Kariera\projekty na gita\basic_algorithms\cmake-build-debug"
+-- Version: 10.1.0
+-- Build type: Debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Wszystko/Kariera/projekty na gita/basic_algorithms/cmake-build-debug

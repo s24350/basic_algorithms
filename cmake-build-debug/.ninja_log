@@ -1,0 +1,18 @@
+# ninja log v5
+0	1385	7428564874192026	CMakeFiles/main.dir/main.cpp.obj	35a0d73823950605
+3519	3958	7428564899899786	_deps/fmt-build/libfmtd.a	b842576bcf19cff0
+8	1151	7428599912845596	CMakeFiles/k-means.dir/file_reader.cpp.obj	63cbbce33dd0021a
+6	3431	7428564894532078	_deps/fmt-build/CMakeFiles/fmt.dir/src/format.cc.obj	e8d4c21e906f2a9b
+1844	2498	7428599775623725	perceptron.exe	dd7b502f05c32de6
+11	3517	7428564895494094	_deps/fmt-build/CMakeFiles/fmt.dir/src/os.cc.obj	d7c9f1dda8ec7338
+3472	4554	7428600286766743	knn.exe	738fdba94e1a12cd
+4	1844	7428599769189966	CMakeFiles/perceptron.dir/perceptron.cpp.obj	70ebef0aa4ac6160
+4	2921	7428599930504564	CMakeFiles/k-means.dir/k-means.cpp.obj	28fda80fe802c52f
+3958	4598	7428564906206104	main.exe	c60bedb563ca4ac2
+2922	3796	7428599939198773	k-means.exe	656e63d4e1e23234
+11	3472	7428600275947942	CMakeFiles/knn.dir/knn.cpp.obj	ee28409e6e367014
+5	2349	7428601318978282	CMakeFiles/bayes.dir/bayes.cpp.obj	e58b47e2cc6ce03f
+2350	3197	7428601327406298	bayes.exe	9daaa28aad97b37e
+9	966	7428599760403716	CMakeFiles/perceptron.dir/file_reader.cpp.obj	a9bb5f072e2a6fb1
+4	1095	7428600252282710	CMakeFiles/knn.dir/file_reader.cpp.obj	9da4eeffd2b6d276
+5	1074	7428600437807394	CMakeFiles/bayes.dir/file_reader.cpp.obj	95701ecd726ba4c3

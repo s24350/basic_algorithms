@@ -1,0 +1,3 @@
+C:/Wszystko/Kariera/projekty na gita/basic_algorithms/cmake-build-debug/_deps/fmt-subbuild/CMakeFiles/fmt-populate.dir
+C:/Wszystko/Kariera/projekty na gita/basic_algorithms/cmake-build-debug/_deps/fmt-subbuild/CMakeFiles/edit_cache.dir
+C:/Wszystko/Kariera/projekty na gita/basic_algorithms/cmake-build-debug/_deps/fmt-subbuild/CMakeFiles/rebuild_cache.dir
